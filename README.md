@@ -1,4 +1,4 @@
-[![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)]
+![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm RC Deepak</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
